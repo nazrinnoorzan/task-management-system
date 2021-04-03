@@ -1,4 +1,4 @@
-# task-management-system
+# Task Management System
 
 This project uses -
 
@@ -14,10 +14,10 @@ Data is been saved inside Local Storage for now.
 
 1. Open console, run command:
 
-### `npm install`
+##### `npm install`
 
 2. Next, run command:
 
-### `npm run project`
+##### `npm run project`
 
 3. Finally, in web browser, go to http://localhost:3000/
